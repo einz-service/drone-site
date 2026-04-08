@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>不動産・山林 ドローン撮影 | 現地確認・空撮 | 198,000円〜</title>
+  <meta name="description" content="不動産・山林の現地確認をドローンで代替。査定・仕入れ判断に使える空撮データを提供。関東対応。198,000円〜。" />
+  <style>
+    body {font-family: sans-serif; margin:0; color:#222;}
+    .container {width:90%; max-width:1000px; margin:0 auto;}
+    header {padding:15px 0; border-bottom:1px solid #eee;}
+    .logo {font-weight:bold;}
+    section {padding:60px 0;}
+    h1 {font-size:32px;}
+    h2 {font-size:24px;}
+    .hero {
+      color:#fff;
+      padding:80px 0;
+      background:
+        linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
+        url("https://images.unsplash.com/photo-yv7ilXLgEZA?auto=format&fit=crop&w=1600&q=80") center/cover no-repeat;
+    }
+    .btn {display:inline-block; padding:12px 20px; background:#0d6efd; color:#fff; margin-top:20px;}
+    .list-item {margin:10px 0;}
+    .box {border:1px solid #eee; padding:20px; margin-bottom:15px;}
+    .cta {background:#111; color:#fff; padding:40px; text-align:center;}
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="container">
+    <div class="logo">不動産・山林 ドローン撮影</div>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="container">
+    <h1>不動産・山林の現地確認を、ドローンで代替する。</h1>
+    <p>
+      遠方物件・山林の確認コストを削減。<br>
+      査定・仕入れ判断に使える空撮データを提供。<br>
+      対応エリア：関東および周辺地域
+    </p>
+    <div>198,000円〜</div>
+    <a href="#contact" class="btn">無料相談する</a>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>サービス内容</h2>
+
+    <div class="box">
+      <b>現地確認の代替</b><br>
+      遠方物件や山林の確認をドローンで代替
+    </div>
+
+    <div class="box">
+      <b>査定・仕入れ判断支援</b><br>
+      接道・地形・周辺環境を可視化
+    </div>
+
+    <div class="box">
+      <b>売却資料作成</b><br>
+      写真・動画を納品
+    </div>
+
+    <!-- ドローン画像 -->
+    <img src="https://images.unsplash.com/photo-Ve7iqUNkGsA?auto=format&fit=crop&w=1200&q=80" style="margin-top:30px;">
+  </div>
+</section>
+
+<section style="background:#f5f5f5;">
+  <div class="container">
+    <h2>こんな不動産会社様に</h2>
+
+    <div class="list-item">遠方物件の確認が大変</div>
+    <div class="list-item">仕入れ判断の精度を上げたい</div>
+    <div class="list-item">現地確認コストを削減したい</div>
+  </div>
+</section>
+
+<!-- 現地状況イメージ -->
+<section>
+  <div class="container">
+    <h2>現地状況の把握イメージ</h2>
+    <p>山林・空き家などを上空から確認可能</p>
+
+    <img src="https://images.unsplash.com/photo-ndqKmXYB7bY?auto=format&fit=crop&w=1200&q=80">
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>特徴</h2>
+
+    <div class="list-item">不動産視点での撮影</div>
+    <div class="list-item">判断材料として使えるデータ</div>
+    <div class="list-item">柔軟な対応</div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>料金</h2>
+    <div>198,000円〜</div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>会社概要</h2>
+    <div class="list-item">会社名：株式会社EINZ</div>
+    <div class="list-item">所在地：東京都渋谷区道玄坂1-20-3</div>
+    <div class="list-item">代表者：永長 淳</div>
+    <div class="list-item">事業内容：不動産コンサルティング／ドローン撮影</div>
+    <div class="list-item">メール：soudan@einz.co.jp</div>
+  </div>
+</section>
+
+<section id="contact">
+  <div class="container">
+    <div class="cta">
+      <h2>まずはご相談ください</h2>
+      <p>案件ベースで対応可能です</p>
+      <a href="mailto:soudan@einz.co.jp" class="btn">メールを送る</a>
+      <p>soudan@einz.co.jp</p>
+    </div>
+  </div>
+</section>
+
+</body>
+</html>
