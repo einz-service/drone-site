@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>不動産・山林 ドローン撮影 | 現地確認・空撮 | 198,000円〜</title>
+  <meta name="description" content="不動産・山林の現地確認をドローンで高度化。査定・仕入れ判断・売却資料作成に使える空撮データを提供。関東対応。" />
+
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Noto+Serif+JP:wght@600;700&display=swap" rel="stylesheet">
+
+  <style>
+    body {
+      font-family: "Noto Sans JP", sans-serif;
+      margin: 0;
+      color: #1f2937;
+      background: #f6f8f6;
+      line-height: 1.8;
+    }
+
+    .container {
+      width: min(1100px, 92%);
+      margin: 0 auto;
+    }
+
+    header {
+      background: #ffffff;
+      border-bottom: 1px solid #e5e7eb;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+
+    .header-inner {
+      display: flex;
+      justify-content: space-between;
+      padding: 16px 0;
+    }
+
+    .logo {
+      font-family: "Noto Serif JP", serif;
+      font-weight: 700;
+      font-size: 20px;
+    }
+
+    .nav a {
+      margin-left: 18px;
+      font-size: 14px;
+      color: #374151;
+    }
+
+    .hero {
+      background:
+        linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.45)),
+        url("imageshero.avif") center/cover no-repeat;
+      color: white;
+      padding: 120px 0;
+    }
+
+    .hero h1 {
+      font-family: "Noto Serif JP", serif;
+      font-size: 46px;
+      font-weight: 700;
+      margin-bottom: 20px;
+    }
+
+    .hero p {
+      font-size: 18px;
+      margin-bottom: 24px;
+    }
+
+    .hero-price {
+      background: white;
+      color: #14532d;
+      padding: 10px 16px;
+      display: inline-block;
+      font-weight: bold;
+      border-radius: 8px;
+    }
+
+    section {
+      padding: 80px 0;
+      background: #ffffff;
+    }
+
+    .section-title {
+      font-family: "Noto Serif JP", serif;
+      font-size: 28px;
+      border-left: 4px solid #14532d;
+      padding-left: 10px;
+      margin-bottom: 20px;
+    }
+
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(3,1fr);
+      gap: 20px;
+    }
+
+    .card {
+      border: 1px solid #d1d5db;
+      border-radius: 12px;
+      padding: 20px;
+    }
+
+    .card h3 {
+      font-size: 18px;
+      margin-bottom: 10px;
+    }
+
+    .list-item {
+      border: 1px solid #d1d5db;
+      padding: 12px;
+      margin-bottom: 10px;
+      border-radius: 8px;
+    }
+
+    .trust-box {
+      border: 1px solid #d1d5db;
+      padding: 20px;
+      margin-bottom: 12px;
+      border-radius: 10px;
+    }
+
+    .price-box {
+      border: 2px solid #14532d;
+      padding: 30px;
+      text-align: center;
+      border-radius: 16px;
+    }
+
+    .price {
+      font-size: 40px;
+      font-family: "Noto Serif JP", serif;
+      color: #14532d;
+    }
+
+    .flow-step {
+      border: 1px solid #d1d5db;
+      padding: 16px;
+      margin-bottom: 10px;
+      border-radius: 8px;
+    }
+
+    .faq-item {
+      border: 1px solid #d1d5db;
+      padding: 16px;
+      margin-bottom: 10px;
+      border-radius: 8px;
+    }
+
+    .cta {
+      background: #14532d;
+      color: white;
+      padding: 60px;
+      text-align: center;
+      border-radius: 16px;
+    }
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      font-size: 14px;
+      color: #6b7280;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <div class="container header-inner">
+    <div class="logo">不動産・山林 ドローン撮影</div>
+    <nav class="nav">
+      <a href="#service">サービス</a>
+      <a href="#strength">特徴</a>
+      <a href="#price">料金</a>
+      <a href="#flow">流れ</a>
+      <a href="#faq">FAQ</a>
+      <a href="#contact">問い合わせ</a>
+    </nav>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="container">
+    <h1>不動産・山林の現地確認を、<br>ドローンで高度化する。</h1>
+    <p>
+      単なる撮影ではなく、判断に使える情報としての空撮データを提供。<br>
+      関東エリア対応。
+    </p>
+    <div class="hero-price">198,000円〜（案件ごと個別設計）</div>
+  </div>
+</section>
+
+<section id="service">
+  <div class="container">
+    <h2 class="section-title">サービス内容</h2>
+    <div class="cards">
+      <div class="card">
+        <h3>現地確認の代替</h3>
+        <p>遠方物件・山林の現況把握を効率化。</p>
+      </div>
+      <div class="card">
+        <h3>判断支援</h3>
+        <p>接道・地形など意思決定材料を可視化。</p>
+      </div>
+      <div class="card">
+        <h3>資料作成</h3>
+        <p>提案資料に使えるデータを提供。</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="strength">
+  <div class="container">
+    <h2 class="section-title">特徴</h2>
+
+    <div class="trust-box">不動産実務ベースで設計</div>
+    <div class="trust-box">意思決定に使えるデータ</div>
+    <div class="trust-box">案件ごとに最適化</div>
+    <div class="trust-box">相談ベースで検討可能</div>
+
+  </div>
+</section>
+
+<section id="price">
+  <div class="container">
+    <h2 class="section-title">料金</h2>
+    <div class="price-box">
+      <div class="price">198,000円〜</div>
+    </div>
+  </div>
+</section>
+
+<section id="flow">
+  <div class="container">
+    <h2 class="section-title">流れ</h2>
+
+    <div class="flow-step">1. お問い合わせ</div>
+    <div class="flow-step">2. 内容整理</div>
+    <div class="flow-step">3. 見積</div>
+    <div class="flow-step">4. 撮影</div>
+    <div class="flow-step">5. 納品</div>
+
+  </div>
+</section>
+
+<section id="faq">
+  <div class="container">
+    <h2 class="section-title">FAQ</h2>
+
+    <div class="faq-item">関東中心に対応</div>
+    <div class="faq-item">山林対応可</div>
+    <div class="faq-item">形式柔軟</div>
+
+  </div>
+</section>
+
+<section id="contact">
+  <div class="container">
+    <div class="cta">
+      <h2>まずはご相談ください</h2>
+      <p>案件ベースで対応可否をご案内します。</p>
+      <p>soudan@einz.co.jp</p>
+    </div>
+  </div>
+</section>
+
+<footer>
+  © 2026 株式会社EINZ
+</footer>
+
+</body>
+</html>
